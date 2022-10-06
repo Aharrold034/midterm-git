@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Chips, Chocolate, Fruit
 Destiny 2, Apex, Chess
+=======
+Chips, Chocolate, Fruit
+Destiny 2, Apex, Chess
+>>>>>>> snacks
